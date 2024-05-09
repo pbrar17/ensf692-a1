@@ -1,4 +1,6 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
+### Pahul Brar
+### "If you are going through hell, keep going" - Winston Churchill
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
 * Edit the `assignment1code.py` file by following the instructions in the comments.
